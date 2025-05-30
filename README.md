@@ -3,3 +3,62 @@
 In this workshop, you will learn JavaScript fundamentals by building a greeting bot.
 
 You will learn about variables, let, const, console.log and basic string usage.
+
+Step 1
+In this workshop you will learn how to work with JavaScript fundamentals by building a greeting bot.
+
+In this first step, you will want to output a message to the console from the greeting bot.
+
+Remember that you learned about console.log() and strings in the previous lecture videos.
+
+Here is a reminder of how to use console.log() with strings:
+
+Example Code
+console.log("Hello, World!");
+Add a console.log() statement that outputs the string "Hi there!" to the console. Don't forget your quotes around the message!
+
+Step 2
+Now you should see the first message from the bot in the console.
+
+It is time to add a second message from the bot.
+
+Add another console.log statement to output the message "I am excited to talk to you." to the console.
+
+Step 3 Passed
+
+In the previous lecture videos, you learned about the let keyword and how to declare variables in JavaScript.
+
+Here is a reminder of how to declare a variable using the let keyword:
+
+Example Code
+let greeting;
+Use the let keyword to declare a variable called bot.
+
+NOTE: You are using let here because later on in the workshop, you will be changing the value of the bot variable.
+
+Step 4
+When you need to declare variables with multiple words, you can use the camelCase naming convention.
+
+When using camelCase, the first word is all lowercase and the first letter of each subsequent word is capitalized.
+
+Here is an example:
+
+Example Code
+let thisIsCamelCase;
+Use let to declare a variable named botLocation.
+
+Step 5
+Now, it is time to assign some values to your bot and botLocation variables.
+
+In the previous lecture videos, you learned how to assign values to variables like this:
+
+Example Code
+variableName = "Here is the value";
+Remember that what is on the right side of the assignment operator = is the value that you are assigning to the variable on the left side.
+
+Assign the string "teacherBot" to the bot variable and the string "the universe" to the botLocation variable.
+
+Step 6
+Now, it is time to add another message from the bot.
+
+Add another console statement to the code that logs the message "Allow me to introduce myself.".
