@@ -82,3 +82,52 @@ Then use string concatenation with the + operator to join the string "My name is
 Assign this value to the botIntroduction variable.
 
 Then, log the botIntroduction variable to the console.
+
+Step 8
+The next message from the bot will concern the bot's location.
+
+Create a variable called botLocationSentence.
+
+Then use string concatenation with the + operator to join the string "I live in " with the botLocation variable followed by a period (.).
+
+Assign this value to the botLocationSentence variable.
+
+Then, log the value of botLocationSentence to the console.
+
+Step 9
+In the previous lecture videos, you learned how to reassign values to variables like this:
+
+Example Code
+let name = "John";
+console.log(name); // "John"
+
+name = "Jane";
+console.log(name); // "Jane"
+Using reassignment, assign the string "professorBot" to the bot variable.
+
+Step 10
+Now it is time to see the new bot value.
+
+Start by creating a new variable called nicknameIntroduction.
+
+Use string concatenation to join the string "My nickname is " with the bot variable followed by a period (.).
+
+Assign the resulting string to the nicknameIntroduction variable.
+
+Then, log the value of nicknameIntroduction to the console.
+
+Step 11
+Now it looks like the bot wants to change their nickname.
+
+Using reassignment, assign the string "awesomeTeacherBot" to the bot variable.
+
+Step 12
+To see the bot's new nickname, you will need to log a new message to the console.
+
+Create a new variable called newNicknameGreeting.
+
+Then use string concatenation to join the string "I love my nickname but I wish people would call me " with the bot variable followed by a period.
+
+Assign the result to the newNicknameGreeting variable.
+
+Then, log the value of newNicknameGreeting to the console.
