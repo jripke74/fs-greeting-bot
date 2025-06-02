@@ -131,3 +131,22 @@ Then use string concatenation to join the string "I love my nickname but I wish 
 Assign the result to the newNicknameGreeting variable.
 
 Then, log the value of newNicknameGreeting to the console.
+
+Step 13
+The last few messages from the bot will focus on the bot's favorite subject.
+
+Start by creating a new variable called favoriteSubject and assign it the string "Computer Science".
+
+Step 14
+Next, create a variable called favoriteSubjectSentence.
+
+Use string concatenation to join the string "My favorite subject is " with the favoriteSubject variable followed by a period.
+
+Assign the result to the favoriteSubjectSentence variable.
+
+Then, log the value of favoriteSubjectSentence to the console.
+
+Step 15
+For the final step, you will log the bot's message of "Well, it was nice to talk to you. Have a nice day!" to the console.
+
+And with that, your greeting bot is complete!
