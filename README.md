@@ -24,7 +24,7 @@ It is time to add a second message from the bot.
 
 Add another console.log statement to output the message "I am excited to talk to you." to the console.
 
-Step 3 Passed
+Step 3
 
 In the previous lecture videos, you learned about the let keyword and how to declare variables in JavaScript.
 
